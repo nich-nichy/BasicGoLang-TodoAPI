@@ -1,4 +1,4 @@
 # Todo API using Go 🚀
 
 ## Overview
-This **TODO** API is created for learning purposes.
+This **TODO** API is a Basic version.
